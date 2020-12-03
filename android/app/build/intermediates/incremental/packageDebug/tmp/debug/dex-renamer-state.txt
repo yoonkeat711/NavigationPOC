@@ -1,0 +1,4 @@
+#Wed Dec 02 10:46:37 MYT 2020
+base.0=/Users/a00139989/Documents/NavigationPOC/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
